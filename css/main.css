@@ -134,6 +134,7 @@ nav a.selected , nav a:hover{
 #gallery li {
   float: left;
   width: 45%;
+  /* height: 30% */
   margin: 2.5%;
   background-color: #f5f5f5;
   color: #bdc3c7;
